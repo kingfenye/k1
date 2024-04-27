@@ -2,7 +2,6 @@
 
 ## I’m an applications developer experienced in full-stack development - particularly with Java & Python. React is my frontend tool of choice and I've worked in backend with C++, C#, Node, Python, and more.
 
-
 <!--
 Here are some ideas to get you started:
 
