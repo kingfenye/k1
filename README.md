@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Fenye!
 
-## I’m an applications developer experienced in full-stack development - particularly with Java & Python. React is my frontend tool of choice and I've worked in backend with C++, C#, Node, Python, and more.
+## I’m currently an applications developer experienced in full-stack development - particularly with Java & Python. React is my frontend tool of choice and I've worked in backend with C++, C#, Node, Python, and more. I'm interested in dabbling in game development as a side-hobby! 
 
 <!--
 Here are some ideas to get you started:
